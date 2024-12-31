@@ -1,7 +1,9 @@
-Parkinsons Disease
+Parkinsons Disease Prediction
 
-Built a Support Vector Machine (SVM) model to classify individuals as Parkinson's positive or negative using biomedical voice measurements.
+This project uses a Support Vector Machine (SVM) model to predict whether a person has Parkinson's Disease based on various biomedical features.
 
-Preprocessed the dataset, standardized features, and trained the SVM classifier achieving high accuracy on both training and testing data.
+1.Built a Support Vector Machine (SVM) model to classify individuals as Parkinson's positive or negative using biomedical voice measurements.
 
-Developed a predictive system to determine Parkinson's status based on input features, demonstrating practical applications in early detection.
+2.Preprocessed the dataset, standardized features, and trained the SVM classifier achieving high accuracy on both training and testing data.
+
+3.Developed a predictive system to determine Parkinson's status based on input features, demonstrating practical applications in early detection.
